@@ -21,6 +21,6 @@ Emerging trends in AI-driven software development.
 
 📫 Let’s Connect!
 📧 Email: harshavardhanpenthala@gmail.com
-🔗 LinkedIn: Harsha Vardhan
+🔗 LinkedIn: https://www.linkedin.com/in/harsha-vardhan-32a50112a/
 
 Always excited to connect, collaborate, and innovate! 🚀💡
